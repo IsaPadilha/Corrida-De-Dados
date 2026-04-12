@@ -1,0 +1,14 @@
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\bin\Debug\net9.0\CorridaDeDados.ConsoleApp.exe
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\bin\Debug\net9.0\CorridaDeDados.ConsoleApp.deps.json
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\bin\Debug\net9.0\CorridaDeDados.ConsoleApp.runtimeconfig.json
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\bin\Debug\net9.0\CorridaDeDados.ConsoleApp.dll
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\bin\Debug\net9.0\CorridaDeDados.ConsoleApp.pdb
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.AssemblyInfoInputs.cache
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.AssemblyInfo.cs
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.dll
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\refint\CorridaDeDados.ConsoleApp.dll
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.pdb
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.genruntimeconfig.cache
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\ref\CorridaDeDados.ConsoleApp.dll
