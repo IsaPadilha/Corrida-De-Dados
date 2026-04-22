@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CorridaDeDados.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1abb6740445cd25d7a9ca004a1edcea0e6ca541b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ba30d731ef56e8f1a9bef1b2f02b2282a086258")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorridaDeDados.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorridaDeDados.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

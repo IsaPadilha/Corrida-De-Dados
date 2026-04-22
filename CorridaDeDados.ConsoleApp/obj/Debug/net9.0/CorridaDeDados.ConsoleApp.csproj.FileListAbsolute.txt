@@ -12,3 +12,4 @@ C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\refint\
 C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.pdb
 C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.genruntimeconfig.cache
 C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\ref\CorridaDeDados.ConsoleApp.dll
+C:\Academia C#\CorridaDeDados\CorridaDeDados.ConsoleApp\obj\Debug\net9.0\CorridaDeDados.ConsoleApp.sourcelink.json
