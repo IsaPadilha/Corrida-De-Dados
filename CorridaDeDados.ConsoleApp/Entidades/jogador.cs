@@ -40,6 +40,15 @@ public static class jogador
             Console.WriteLine($"\nVocê está na posição: {posicao} de {limiteLinhaChegada}!");
         }
 
+        else if (posicao == 7 || posicao == 13 || posicao == 20)
+        {
+            Console.WriteLine($"\nEvento: Recuo de {penalidadeRecuo} casas!");
+
+            posicao -= penalidadeRecuo;
+
+            Console.WriteLine($"\nVocê está na posição: {posicao} de {limiteLinhaChegada}!");
+        }
+
         ApresentarMensagemJogador();
     }
 
